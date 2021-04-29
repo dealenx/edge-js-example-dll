@@ -1,0 +1,15 @@
+{
+  "name": "edge-js-example-dll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-js": "^15.5.2"
+  }
+}
